@@ -1,5 +1,6 @@
+1)
 import java.util.Scanner;
-public class Main
+public class Arr1
 {
     public static void main(String[] args) 
     {
